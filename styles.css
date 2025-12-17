@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+h1 {
+    color :red
+;    text-align : centre;
+    margin-bottom : 8px;
+}
+body {
+     background : red;
+     padding : 16px;
+}
