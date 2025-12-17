@@ -8,9 +8,23 @@
 h1 {
     color :red
 ;    text-align : centre;
-    margin-bottom : 8px;
+    margin-bottom : 10px;
 }
 body {
-     background : red;
+     background : orange;
+     min-height: 100vh;
+     display : flex;
+     justify-content: center;
+     align-items: centre;
      padding : 16px;
+}
+container {
+    background-color: brown;
+    padding : 200px;
+    width : 200 px;
+}
+input {
+    width :100px;
+    padding :8px;
+    margin-bottom: 10px;
 }
